@@ -1,6 +1,6 @@
 # Juris Tech
 
-## Overview and Origin
+## 1. Overview and Origin
 
 * Name of company
 
@@ -16,12 +16,13 @@
 
 *Who are the founders of the company?
 
-    **The founder are:**
+>**The founder are:**
 
 >**-[See Wai Hun](https://www.linkedin.com/in/wai-hun-see-0a1a497b/), CEO**
 
 >**-[John Lim](https://www.linkedin.com/in/john-lim-75488aa0/?originalSubdomain=my), CTO**
 
+## 2. Literature review and history of the [Juris Tech](https://juristech.net)
 * How did the idea for the company (or project) come about?
 
  **The founders have had prior experience in the financial or legal sectors, recognized inefficiencies, or challenges in those industries, and decided to develop innovative solutions to address them. They have seen an opportunity to leverage technology to improve processes, reduce risks, or enhance the customer experience in credit management and lending. See Wai Hun co-founded JurisTech in 1997, smack in the middle of the Asian Financial crisis which saw the country’s overnight rate rose from 8% to 40%. In crisis there is opportunity holds true for Wai Hun as she secured her first deal with a large multi-national bank to provide a crucial recovery solution for the Bank.**
@@ -33,7 +34,7 @@
 
 **Juris tech received 49.02M in 2021, however they are not following a typical tech startup fundung journey.**
 
-## Business Activities
+## 3. Business Activities
 
 * What specific problem is the company or project trying to solve?
 
@@ -56,7 +57,7 @@
 **Machine learning: Juris Mindcraft uses advanced machine learning techniques to build AI models.
 Artificial intelligence: Juris Mindcraft is an AI platform.**[^3]
 
-## Landscape
+## 4. Landscape
 
 * What field is the company in?
 
@@ -68,19 +69,19 @@ Artificial intelligence: Juris Mindcraft is an AI platform.**[^3]
 
 * What are the other major companies in this field?
 
-***[ZestFinance](https://www.zest.ai/):* ZestFinance is a well-known AI-driven underwriting and credit scoring company. They use machine learning to provide more accurate and fair credit assessments for lenders.**
+    ***[ZestFinance](https://www.zest.ai/):* ZestFinance is a well-known AI-driven underwriting and credit scoring company. They use machine learning to provide more accurate and fair credit assessments for lenders.**
 
-***[LenddoEFL](https://lenddoefl.com/):* LenddoEFL specializes in using non-traditional data sources and AI to provide credit scoring solutions for lenders. They assess creditworthiness based on digital footprints and behavioral data.**
+    ***[LenddoEFL](https://lenddoefl.com/):* LenddoEFL specializes in using non-traditional data sources and AI to provide credit scoring solutions for lenders. They assess creditworthiness based on digital footprints and behavioral data.**
 
-***[Scienaptic](https://www.scienaptic.ai/):* Scienaptic's platform, "Ether," uses AI and machine learning to enhance credit underwriting and risk assessment for banks and financial institutions.**
+    ***[Scienaptic](https://www.scienaptic.ai/):* Scienaptic's platform, "Ether," uses AI and machine learning to enhance credit underwriting and risk assessment for banks and financial institutions.**
 
-***[Upstart](https://www.upstart.com/):* Upstart uses AI and machine learning to evaluate creditworthiness by considering not just traditional credit history but also factors like education and employment.**
+    ***[Upstart](https://www.upstart.com/):* Upstart uses AI and machine learning to evaluate creditworthiness by considering not just traditional credit history but also factors like education and employment.**
 
-***[Kreditech](https://kreditech.com/):* Kreditech, now Monedo, used to provide AI-driven credit scoring and lending services, leveraging alternative data sources.**
+    ***[Kreditech](https://kreditech.com/):* Kreditech, now Monedo, used to provide AI-driven credit scoring and lending services, leveraging alternative data sources.**
 
-***[Affirm](https://www.affirm.com/):* Affirm provides point-of-sale financing and underwriting decisions using AI to offer consumers instant credit for their purchases.**
+    ***[Affirm](https://www.affirm.com/):* Affirm provides point-of-sale financing and underwriting decisions using AI to offer consumers instant credit for their purchases.**
 
-## Results
+## 5. Results
 
 * What has been the business impact of this company so far?
 
@@ -88,11 +89,11 @@ Artificial intelligence: Juris Mindcraft is an AI platform.**[^3]
 
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
 
-        **The core metrics in AI-based alternative credit scoring assessment typically revolve around the collection and analysis of extensive data to make informed judgments about clients' creditworthiness and their likelihood to make timely credit payments.**
+>**The core metrics in AI-based alternative credit scoring assessment typically revolve around the collection and analysis of extensive data to make informed judgments about clients' creditworthiness and their likelihood to make timely credit payments.**
 
-        **Creating algorithms that predict the likelihood of a client defaulting on their credit payments. This is a crucial metric as it directly impacts the lender's risk exposure.**
+>**Creating algorithms that predict the likelihood of a client defaulting on their credit payments. This is a crucial metric as it directly impacts the lender's risk exposure.**
 
-        **Assessing the model's ability to minimize false positives (approving clients who will default) and false negatives (rejecting clients who would not default) as these can have significant financial implications for the lender.**[^15]
+>**Assessing the model's ability to minimize false positives (approving clients who will default) and false negatives (rejecting clients who would not default) as these can have significant financial implications for the lender.**[^15]
 
 
 * How is your company performing relative to competitors in the same field?
@@ -103,7 +104,7 @@ Artificial intelligence: Juris Mindcraft is an AI platform.**[^3]
 
         **Juris Tech, in a strategic move, recently launched its latest product, 'Mindcraft,' with a primary focus on the burgeoning Asian emerging markets. This expansion reflects their commitment to serving the unique needs and demands of this rapidly growing region while harnessing their considerable expertise in the fintech sector.**
 
-## Recommendations
+## 6. Recommendations
 
 * Why do you think that offering this product or service would benefit the company?
 
@@ -119,7 +120,7 @@ Artificial intelligence: Juris Mindcraft is an AI platform.**[^3]
 
 
 
-## Links:
+## 7. Links:
 1. https://www.crunchbase.com/person/john-lim-4c68
 
 2. https://juristech.net/juristech/juris-mindcraft/
