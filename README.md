@@ -38,24 +38,24 @@
 
 * What specific problem is the company or project trying to solve?
 
-**The problem of unbanked individuals unable to access credit facilities in Asia presents a complex challenge with wide-ranging implications. A significant portion of the population in Asia lacks access to traditional banking services, leaving them without bank accounts, credit cards, or a financial history essential for credit approval. This limited financial inclusion obstructs their ability to invest in education, start or expand businesses, or cope with unexpected expenses, hindering their economic growth and overall well-being.**[^16]
+**The problem of unbanked individuals unable to access credit facilities in Asia presents a complex challenge with wide-ranging implications. A significant portion of the population in Asia lacks access to traditional banking services, leaving them without bank accounts, credit cards, or a financial history essential for credit approval. This limited financial inclusion obstructs their ability to invest in education, start or expand businesses, or cope with unexpected expenses, hindering their economic growth and overall well-being.**<sup>16</sup>
 
-**The company is trying to reduce the risk of lending. They are working on an AI/autoML product called Juris Tech Mindcradt to leverage the us of AI to enable banks and financial institutions to have an alternative credit scoring system for banked and unbanked clients in emerging markets.** [^4]
+**The company is trying to reduce the risk of lending. They are working on an AI/autoML product called Juris Tech Mindcradt to leverage the us of AI to enable banks and financial institutions to have an alternative credit scoring system for banked and unbanked clients in emerging markets.** <sup>4</sup>
 
 **Juristech has created a new product called Juristech** 
 
 * Who is the company's intended customer? Is there any information about the market size of this set of customers?
 
-**According to the report of the [world bank blogs](https://blogs.worldbank.org/), a mere 27% of adults possess a bank account, and just 33% of businesses have access to loans or lines of credit. This deficiency in financial access was emphasized by speakers during the recent [Mastercard](https://www.mastercard.us/en-us.html)-SMU Forum in Singapore, who emphasized the pressing need for enhanced financial inclusion to be integrated as a fundamental element of Asia's economic advancement.**[^16]
+**According to the report of the [world bank blogs](https://blogs.worldbank.org/), a mere 27% of adults possess a bank account, and just 33% of businesses have access to loans or lines of credit. This deficiency in financial access was emphasized by speakers during the recent [Mastercard](https://www.mastercard.us/en-us.html)-SMU Forum in Singapore, who emphasized the pressing need for enhanced financial inclusion to be integrated as a fundamental element of Asia's economic advancement.** <sup>16</sup>
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
-**With over 25 years of extensive experience in the Asian fintech field, Juris Tech holds a significant advantage over its competitors. Their deep industry knowledge and insights into the market position them far ahead of their peers, allowing them to make informed decisions and offer tailored solutions that are highly attuned to the unique dynamics of the region.**[^2]
+**With over 25 years of extensive experience in the Asian fintech field, Juris Tech holds a significant advantage over its competitors. Their deep industry knowledge and insights into the market position them far ahead of their peers, allowing them to make informed decisions and offer tailored solutions that are highly attuned to the unique dynamics of the region.**<sup>2</sup>
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
 **Machine learning: Juris Mindcraft uses advanced machine learning techniques to build AI models.
-Artificial intelligence: Juris Mindcraft is an AI platform.**[^3]
+Artificial intelligence: Juris Mindcraft is an AI platform.**<sup>3</sup>
 
 ## 4. Landscape
 
@@ -85,7 +85,7 @@ Artificial intelligence: Juris Mindcraft is an AI platform.**[^3]
 
 * What has been the business impact of this company so far?
 
->**Juris Mindcraft supports both supervised learning problems, namely, classification and regression. It also supports explainable models and decisions, on top of, RESTful service deployment of AI models to production systems. This breaks down the walls of confusion between data scientists, software engineers, IT teams, and business decision makers for better coordination and faster deployment.**[^15]
+>**Juris Mindcraft supports both supervised learning problems, namely, classification and regression. It also supports explainable models and decisions, on top of, RESTful service deployment of AI models to production systems. This breaks down the walls of confusion between data scientists, software engineers, IT teams, and business decision makers for better coordination and faster deployment.**<sup>15</sup>
 
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
 
@@ -93,12 +93,12 @@ Artificial intelligence: Juris Mindcraft is an AI platform.**[^3]
 
 >**Creating algorithms that predict the likelihood of a client defaulting on their credit payments. This is a crucial metric as it directly impacts the lender's risk exposure.**
 
->**Assessing the model's ability to minimize false positives (approving clients who will default) and false negatives (rejecting clients who would not default) as these can have significant financial implications for the lender.**[^15]
+>**Assessing the model's ability to minimize false positives (approving clients who will default) and false negatives (rejecting clients who would not default) as these can have significant financial implications for the lender.**<sup>15</sup>
 
 
 * How is your company performing relative to competitors in the same field?
 
->**Juris Tech is a well-established company with over 25 years of experience in the fintech sector. Their extensive industry tenure has endowed them with a profound understanding of market trends and a wealth of practical expertise. This depth of knowledge informs their product development, ensuring that their solutions align with prevailing market dynamics and customer demands.** [^2]
+>**Juris Tech is a well-established company with over 25 years of experience in the fintech sector. Their extensive industry tenure has endowed them with a profound understanding of market trends and a wealth of practical expertise. This depth of knowledge informs their product development, ensuring that their solutions align with prevailing market dynamics and customer demands.** <sup>2</sup>
 
 >**A central objective of Juris Tech is to address a pressing issue: facilitating access to alternative lending options for unbanked clients. In contrast to their competitors, Juris Tech is pioneering a transformative approach to credit assessment, aimed at refining and elevating the process. They are at the forefront of providing advanced technology solutions designed to enhance the capabilities of loan underwriters and private lenders.**
 
@@ -116,7 +116,7 @@ Artificial intelligence: Juris Mindcraft is an AI platform.**[^3]
 
 * Why are these technologies appropriate for your solution?
 
->**AI-enabled alternative credit scoring is invaluable for its inclusivity, improving accuracy, and speed in decision-making. By incorporating a broader range of data sources, it provides access to credit for those with limited or no traditional credit history [^15].** 
+>**AI-enabled alternative credit scoring is invaluable for its inclusivity, improving accuracy, and speed in decision-making. By incorporating a broader range of data sources, it provides access to credit for those with limited or no traditional credit history.<sup>15</sup>** 
 
 
 
