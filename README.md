@@ -27,7 +27,7 @@
 
  **The founders have had prior experience in the financial or legal sectors, recognized inefficiencies, or challenges in those industries, and decided to develop innovative solutions to address them. They have seen an opportunity to leverage technology to improve processes, reduce risks, or enhance the customer experience in credit management and lending. See Wai Hun co-founded JurisTech in 1997, smack in the middle of the Asian Financial crisis which saw the country’s overnight rate rose from 8% to 40%. In crisis there is opportunity holds true for Wai Hun as she secured her first deal with a large multi-national bank to provide a crucial recovery solution for the Bank.**
 
-**During the 1997 Asian financial crisis, [John](https://juristech.net/juristech/) and the CEO, [See Wai Hun](https://www.linkedin.com/in/wai-hun-see-0a1a497b/), saw an increase in demand for recovery and legal services due to the spike of non-performing loans. They built on the opportunity and founded the company by launchinga peer-to-peer network to link banks and lawyers, allowing real-time collaborations throughout the debt recovery process.**
+**During the 1997 Asian financial crisis, [John]([https://juristech.net/juristech/](https://www.crunchbase.com/person/john-lim-4c68) and the CEO, [See Wai Hun](https://www.linkedin.com/in/wai-hun-see-0a1a497b/), saw an increase in demand for recovery and legal services due to the spike of non-performing loans. They built on the opportunity and founded the company by launchinga peer-to-peer network to link banks and lawyers, allowing real-time collaborations throughout the debt recovery process.**
 
 
 * How is the company funded? How much funding have they received?
@@ -46,7 +46,7 @@
 
 * Who is the company's intended customer? Is there any information about the market size of this set of customers?
 
-**According to the report of the [world bank blogs](https://blogs.worldbank.org/), a mere 27% of adults possess a bank account, and just 33% of businesses have access to loans or lines of credit. This deficiency in financial access was emphasized by speakers during the recent [Mastercard](mastercard.com)-SMU Forum in Singapore, who emphasized the pressing need for enhanced financial inclusion to be integrated as a fundamental element of Asia's economic advancement.**[^16]
+**According to the report of the [world bank blogs](https://blogs.worldbank.org/), a mere 27% of adults possess a bank account, and just 33% of businesses have access to loans or lines of credit. This deficiency in financial access was emphasized by speakers during the recent [Mastercard](https://www.mastercard.us/en-us.html)-SMU Forum in Singapore, who emphasized the pressing need for enhanced financial inclusion to be integrated as a fundamental element of Asia's economic advancement.**[^16]
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
