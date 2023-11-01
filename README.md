@@ -85,7 +85,7 @@ Artificial intelligence: Juris Mindcraft is an AI platform.**[^3]
 
 * What has been the business impact of this company so far?
 
-        **Juris Mindcraft supports both supervised learning problems, namely, classification and regression. It also supports explainable models and decisions, on top of, RESTful service deployment of AI models to production systems. This breaks down the walls of confusion between data scientists, software engineers, IT teams, and business decision makers for better coordination and faster deployment.**[^15]
+>**Juris Mindcraft supports both supervised learning problems, namely, classification and regression. It also supports explainable models and decisions, on top of, RESTful service deployment of AI models to production systems. This breaks down the walls of confusion between data scientists, software engineers, IT teams, and business decision makers for better coordination and faster deployment.**[^15]
 
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
 
@@ -98,11 +98,11 @@ Artificial intelligence: Juris Mindcraft is an AI platform.**[^3]
 
 * How is your company performing relative to competitors in the same field?
 
-        **Juris Tech is a well-established company with over 25 years of experience in the fintech sector. Their extensive industry tenure has endowed them with a profound understanding of market trends and a wealth of practical expertise. This depth of knowledge informs their product development, ensuring that their solutions align with prevailing market dynamics and customer demands.** [^2]
+>**Juris Tech is a well-established company with over 25 years of experience in the fintech sector. Their extensive industry tenure has endowed them with a profound understanding of market trends and a wealth of practical expertise. This depth of knowledge informs their product development, ensuring that their solutions align with prevailing market dynamics and customer demands.** [^2]
 
-        **A central objective of Juris Tech is to address a pressing issue: facilitating access to alternative lending options for unbanked clients. In contrast to their competitors, Juris Tech is pioneering a transformative approach to credit assessment, aimed at refining and elevating the process. They are at the forefront of providing advanced technology solutions designed to enhance the capabilities of loan underwriters and private lenders.**
+>**A central objective of Juris Tech is to address a pressing issue: facilitating access to alternative lending options for unbanked clients. In contrast to their competitors, Juris Tech is pioneering a transformative approach to credit assessment, aimed at refining and elevating the process. They are at the forefront of providing advanced technology solutions designed to enhance the capabilities of loan underwriters and private lenders.**
 
-        **Juris Tech, in a strategic move, recently launched its latest product, 'Mindcraft,' with a primary focus on the burgeoning Asian emerging markets. This expansion reflects their commitment to serving the unique needs and demands of this rapidly growing region while harnessing their considerable expertise in the fintech sector.**
+>**Juris Tech, in a strategic move, recently launched its latest product, 'Mindcraft,' with a primary focus on the burgeoning Asian emerging markets. This expansion reflects their commitment to serving the unique needs and demands of this rapidly growing region while harnessing their considerable expertise in the fintech sector.**
 
 ## 6. Recommendations
 
