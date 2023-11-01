@@ -27,7 +27,7 @@
 
  **The founders have had prior experience in the financial or legal sectors, recognized inefficiencies, or challenges in those industries, and decided to develop innovative solutions to address them. They have seen an opportunity to leverage technology to improve processes, reduce risks, or enhance the customer experience in credit management and lending. See Wai Hun co-founded JurisTech in 1997, smack in the middle of the Asian Financial crisis which saw the country’s overnight rate rose from 8% to 40%. In crisis there is opportunity holds true for Wai Hun as she secured her first deal with a large multi-national bank to provide a crucial recovery solution for the Bank.**
 
-**During the 1997 Asian financial crisis, [John]([https://juristech.net/juristech/](https://www.crunchbase.com/person/john-lim-4c68) and the CEO, [See Wai Hun](https://www.linkedin.com/in/wai-hun-see-0a1a497b/), saw an increase in demand for recovery and legal services due to the spike of non-performing loans. They built on the opportunity and founded the company by launchinga peer-to-peer network to link banks and lawyers, allowing real-time collaborations throughout the debt recovery process.**
+**During the 1997 Asian financial crisis, [John](https://www.crunchbase.com/person/john-lim-4c68) and the CEO, [See Wai Hun](https://www.linkedin.com/in/wai-hun-see-0a1a497b/), saw an increase in demand for recovery and legal services due to the spike of non-performing loans. They built on the opportunity and founded the company by launchinga peer-to-peer network to link banks and lawyers, allowing real-time collaborations throughout the debt recovery process.**
 
 
 * How is the company funded? How much funding have they received?
